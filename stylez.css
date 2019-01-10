@@ -1,0 +1,9 @@
+h2.intro {
+  font-style: italic;
+}
+p.intro {
+  font-weight: bolder;
+}
+img.intro{
+  width: 100px;
+}
